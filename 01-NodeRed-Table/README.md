@@ -6,3 +6,4 @@ The JSON has features:
 - Button add rows
 - Button delete table contents
 - Counter to count total message that received from MQTT Broker
+- Funtcion to edit rows on table
